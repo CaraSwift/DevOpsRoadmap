@@ -7,7 +7,7 @@ Creating a devops checklist and tracking template to keep me on track with 6 mon
 
 
 ## 🚀 About Me
-I'm a full stack developer...
+
 
 
 ## 🛠 Skills
@@ -16,9 +16,79 @@ Javascript, HTML, CSS...
 
 ## Roadmap
 
-- Additional browser support
+Programming language 
+- Python 
 
-- Add more integrations
+- Go
+
+Operating System 
+- Windows
+- Ubuntu/RHEL
+
+Terminal Knowledge 
+- Bash
+- Process Monitoring
+- Performance Monitoring
+- Networking Table
+- Text Manipulation
+- vim/nano
+
+Version Control 
+- Git
+
+VCS Hosting 
+- Github/Gitlab/Gitea
+
+Containers
+- Docker 
+
+What is it and how to set up 
+- Forward Proxy
+- Reverse Proxy
+- Caching Servr
+- Firewall
+- Load Balancer
+- Nginx
+
+Networking & Protocols 
+- DNS
+- HTTP/HTTPS
+- SSL/TLS
+- SSH
+
+Cloud Providers 
+- AWS
+- Azure
+- Google Cloud
+
+Serverless
+- AWS Lamda
+- Cloudflare
+
+Provisioning 
+- Terraform
+
+Config Management 
+- Ansible
+
+CI/CD
+-Gitlab CI
+-Github Actions
+
+Secret Management 
+- Vault
+
+Infrastructure Monitoring 
+- Prometeus
+- Grafana
+- Datadog
+
+Log Management 
+- Elastic Stack
+- Loki
+
+Container Orchestration 
+- Kubernetes
 
 
 ## Documentation

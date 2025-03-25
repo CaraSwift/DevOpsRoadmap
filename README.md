@@ -11,7 +11,6 @@ Creating a devops checklist and tracking template to keep me on track with 6 mon
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS...
 
 
 ## Roadmap

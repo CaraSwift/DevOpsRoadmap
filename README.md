@@ -18,12 +18,11 @@ Javascript, HTML, CSS...
 
 Programming language 
 - Python 
-
 - Go
 
 Operating System 
 - Windows
-- Ubuntu/RHEL
+- Ubuntu/RHEL - linux essentials and linux foundation system admin cert
 
 Terminal Knowledge 
 - Bash
@@ -31,16 +30,16 @@ Terminal Knowledge
 - Performance Monitoring
 - Networking Table
 - Text Manipulation
-- vim/nano
+- vim/nano 
 
 Version Control 
-- Git
+- Git - setting up git server 
 
 VCS Hosting 
-- Github/Gitlab/Gitea
+- Github/Gitlab/Gitea - experience everywhere 
 
 Containers
-- Docker 
+- Docker - projects, hb but need more on creating docker images 
 
 What is it and how to set up 
 - Forward Proxy
@@ -50,30 +49,30 @@ What is it and how to set up
 - Load Balancer
 - Nginx
 
-Networking & Protocols 
+Networking & Protocols - do ccna? 
 - DNS
 - HTTP/HTTPS
 - SSL/TLS
 - SSH
 
 Cloud Providers 
-- AWS
+- AWS - projects and thg 
 - Azure
-- Google Cloud
+- Google Cloud - thg 
 
 Serverless
 - AWS Lamda
-- Cloudflare
+- Cloudflare - iac cloudflare in thg 
 
 Provisioning 
-- Terraform
+- Terraform - projects 
 
 Config Management 
-- Ansible
+- Ansible - hb projects 
 
 CI/CD
--Gitlab CI
--Github Actions
+-Gitlab CI 
+-Github Actions - projects and thg 
 
 Secret Management 
 - Vault
@@ -84,7 +83,7 @@ Infrastructure Monitoring
 - Datadog
 
 Log Management 
-- Elastic Stack
+- Elastic Stack - some experience in thg, need more learning 
 - Loki
 
 Container Orchestration 
